@@ -1,0 +1,3 @@
+#!/bin/sh
+set -euo pipefail
+./mn-lotto-members -Xmx512m
